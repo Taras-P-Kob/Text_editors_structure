@@ -1,0 +1,13 @@
+Microsoft_Word Microsoft_Corporation Commercial 88 70
+LibreOffice_Writer11 The_Document_Foundation Open_Source 5 0
+Google_Docs Google Web_service 69 0
+Notepad++ Notepad++_Team Open_Source 23 0
+Atom GitHub Open_Source 99 10
+Microsoft_Notepad Microsoft Commercial 65 0
+Sublime_Text Sublime_HQ Commercial 55 80
+Linux9 BillGates Open_Source 99 0
+TextMate MacroMates Commercial 87 50
+Emacs GNU_Project Open_Source 31 0
+UltraEdit IDM_Computer_Solutions Commercial 85 30
+BBEdit Bare_Bones_Software Commercial 70 5
+Romna Tor Free 88 0
