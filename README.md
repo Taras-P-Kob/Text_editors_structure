@@ -24,9 +24,9 @@ The element is: Text editors: (name, manufacturer, license, rating, price).
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Taras-P-Kob/The-program-provides-processing-of-cpp-data-structures/assets/119957094/707afd6f-2de9-46f6-89dd-59063cac9ebc)
 
-3. Add option
+3. Picture. Edit option
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Taras-P-Kob/The-program-provides-processing-of-cpp-data-structures/assets/119957094/f423e6ac-6c75-4ee8-b19b-1ed02026b02b)
 
-4. Picture Sorted by License
+4. Picture. Sorted by License
