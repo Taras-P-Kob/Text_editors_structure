@@ -37,3 +37,17 @@ The element is: Text editors: (name, manufacturer, license, rating, price).
 2.3. Deleting text editor
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/Taras-P-Kob/The-program-provides-processing-of-cpp-data-structures/assets/119957094/c08a7e2e-b864-4770-9fc2-32486e07bfde)
+
+
+3. Sorted for an example by License
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/Taras-P-Kob/The-program-provides-processing-of-cpp-data-structures/assets/119957094/801e50d5-8210-4499-9827-456f34d95a5d)
+
+4. Searched by name
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/Taras-P-Kob/The-program-provides-processing-of-cpp-data-structures/assets/119957094/0d3512cf-7191-455e-b6af-b2601bacaf27)
+
+5. Exit option
