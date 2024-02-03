@@ -1,4 +1,4 @@
-# The-program-provides-processing-of-cpp-data-structures
+# The program provides processing of CPP data structures
 
 
 Task.
