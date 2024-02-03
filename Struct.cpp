@@ -691,7 +691,7 @@ bool isOnlySpaces(const std::string& str) {
 }
 
 bool isValidEnglishInput(const std::string& input) {
-    std::regex inputPattern("^[A-Za-z0-9_]{1,10}$");
+    std::regex inputPattern("^[A-Za-z0-9_]+$");
     return std::regex_match(input, inputPattern);
 }
 
